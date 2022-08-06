@@ -56,6 +56,7 @@ public class doubly{
             newNode.next.prev=newNode;
 
         }
+        size++;
     }
 
     public static void main(String[] args){
