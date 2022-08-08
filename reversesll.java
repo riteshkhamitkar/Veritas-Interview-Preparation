@@ -7,9 +7,9 @@ class Main {
         int value;
         Node next;
  
-        Node(int d)
+        Node(int nodeValue)
         {
-            value = d;
+            value = nodeValue;
             next = null;
         }
     }
